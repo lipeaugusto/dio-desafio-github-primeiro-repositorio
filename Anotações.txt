@@ -1,0 +1,7 @@
+Anotações
+
+Link para download do Git: https://git-scm.com/download/linux
+
+Comandos GIT Linux: https://www.hostinger.com.br/tutoriais/tutorial-do-git-basics-introducao
+
+
